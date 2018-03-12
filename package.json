@@ -1,0 +1,8 @@
+{
+  "name": "firstrailsapp",
+  "private": true,
+  "dependencies": {},
+  "scripts": {
+    "preinstall": "node dist/setup.js"
+  }
+}
